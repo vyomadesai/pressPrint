@@ -1,0 +1,40 @@
+{
+    "resources": [
+      {
+        "title": "PHOTO IMAGING AND PROOFING",
+        "imageUrl": "/productImages/homePage/hm1.jpg",
+        "description": "We specialize in Photo Image and Proofing"
+      },
+      {
+        "title": "TEXTILE AND GARMENT PRINTING",
+        "imageUrl": "/productImages/homePage/hm2.jpg",
+        "description": "We specialize in Textile and Garment Printing"
+      },
+      {
+        "title": "PRINT AND PUBLISHING SOLUTION",
+        "imageUrl": "/productImages/homePage/hm3.jpg",
+        "description": "We specialize in Print and Publishing Solution"
+      },
+      {
+        "title": "TEXTILE AND GARMENT PRINTING",
+        "imageUrl": "/productImages/homePage/hm4.jpg",
+        "description": "We specialize in Textile and Garment Printing"
+      },
+      {
+        "title": "TEXTILE AND GARMENT PRINTING",
+        "imageUrl": "/productImages/homePage/hm5.jpg",
+        "description": "We specialize in Textile and Garment Printing"
+      },
+      {
+        "title": "TEXTILE AND GARMENT PRINTING",
+        "imageUrl": "/productImages/homePage/hm6.jpg",
+        "description": "We specialize in Textile and Garment Printing"
+      },
+      {
+        "title": "TEXTILE AND GARMENT PRINTING",
+        "imageUrl": "/productImages/homePage/hm7.jpg",
+        "description": "We specialize in Textile and Garment Printing"
+      }
+    ]
+  }
+  
