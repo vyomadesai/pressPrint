@@ -28,7 +28,7 @@ function enfocus() {
             <a href="#">
                 <h5 className="pb-5 px-2 text-2xl text-center font-bold tracking-tight text-gray-900 dark:text-white">PitStop Pro</h5>
             </a>
-            <p className="p-3 text-center font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+            <p className="p-3 text-justify font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
             <a href="#" className="p-3 text-center px-3 py-2 text-sm font-medium text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                 Read More
             </a>
@@ -46,7 +46,7 @@ function enfocus() {
             <a href="#">
                 <h5 className="pb-5 px-2 text-2xl font-bold text-center tracking-tight text-gray-900 dark:text-white">PitStop Server</h5>
             </a>
-            <p className="p-3 text-center font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+            <p className="p-3 text-justify font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
             <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                 Read More
             </a>
@@ -64,7 +64,7 @@ function enfocus() {
             <a href="#">
                 <h5 className="pb-5 px-2 text-2xl font-bold text-center tracking-tight text-gray-900 dark:text-white">Switch</h5>
             </a>
-            <p className="p-3 text-center font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+            <p className="p-3 text-justify font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
             <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                 Read More
             </a>            
@@ -82,7 +82,7 @@ function enfocus() {
             <a href="#">
                 <h5 className="pb-5 px-2 text-2xl font-bold text-center tracking-tight text-gray-900 dark:text-white">Connect All</h5>
             </a>
-            <p className="p-3 text-center font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+            <p className="p-3 text-justify font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
             <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                 Read More
             </a>

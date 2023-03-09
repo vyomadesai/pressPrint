@@ -12,7 +12,7 @@ function products() {
   return ( <>
     <div className='p-10 justify-around'>
     <h1 className='text-center text-3xl uppercase text-[#00d1f4]'>Our Products</h1>
-    <p className='p-3 flex sm:justify-between'>Think Print comprises of Venus Infotech and Basis Systems. We offer Products, Services and Solutions for the Print Industry.
+    <p className='p-3 text-justify'>Think Print comprises of Venus Infotech and Basis Systems. We offer Products, Services and Solutions for the Print Industry.
       We cover many verticals including Newspapers, Packaging, Commercial Print, Photography, Textile & Gifting.
       For nearly 40 years we have been serving our customers, many of whom are repeat customers, with our diligence, sincerity and dedication.
     </p>

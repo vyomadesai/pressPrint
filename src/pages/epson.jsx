@@ -25,7 +25,7 @@ function epson() {
     <div className='p-10 justify-around'>
       <h1 className='text-center text-3xl uppercase text-[#00d1f4]'>Professionals Printers</h1>
     </div>
-    <div className='p-4 flex flex-wrap justify-start'>
+    <div className='p-4 flex flex-wrap justify-around'>
       <div className="flex flex-col w-full m-6 overflow-hidden sm:w-1/5">
         <Link href="/">
         <Image
@@ -37,7 +37,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-P407</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enter prise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -53,7 +53,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-P607</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -69,7 +69,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-P807</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -85,7 +85,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-P5000</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -101,7 +101,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-P6000</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -117,7 +117,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-P7000</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -133,7 +133,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-P8000</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -149,7 +149,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-P9000</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -165,7 +165,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-P10700</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -181,7 +181,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-P20700</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -204,7 +204,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-T3270</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -220,7 +220,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-T5270</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -236,7 +236,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-T7270</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -261,7 +261,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-F2130</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>
@@ -279,7 +279,7 @@ function epson() {
         <a href="#">
             <h5 className="pb-5 px-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SC-F530</h5>
         </a>
-        <p className="p-3 font-normal text-center text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <p className="p-3 font-normal text-justify text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
         <a href="#" className="p-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Read More
         </a>

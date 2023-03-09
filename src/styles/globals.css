@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.bg-header {
+    background: url(../../public/productImages/homePage/hm8.jpeg) center center no-repeat;
+    background-attachment: fixed;
+  }
+  
+  .bg-quote {
+    background: url(../../public/productImages/homePage/hm10.jpg) center center no-repeat;
+    background-attachment: fixed;
+  }
